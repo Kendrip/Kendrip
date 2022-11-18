@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java, C# & JavaScript
 - 🌱 I’m currently learning NodeJS, Angular
 - 💞️ I’m looking to collaborate on Minecraft Plugin / Modification Projects & any Web Developement projects
-- 📫 How to reach me on Twitter @kendrip_
 
 <!---
 Kendrip/Kendrip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
